@@ -1,4 +1,4 @@
-# Fluid Flows in the Enviornment
+# Fluid Flows in the Environment
 
 **CEE 348**
 
@@ -19,9 +19,3 @@ This course covers fundamental topics related to fluid flows in the environment,
 **Prerequisite:** Fluid Mechanics
 
 **Offered:** Spring quarters
-
-
-
-
-
-
