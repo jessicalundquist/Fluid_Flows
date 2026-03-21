@@ -28,12 +28,14 @@ parts:
      sections:
      - file: modules/module3/lab3-1
      - file: modules/module3/lab3-2
+     - file: modules/module3/lab3-3
+     - file: modules/module3/lab3-4
+     - file: modules/module3/lab3-5
      
    - file: modules/module4/module4.md
      sections:
-     - file: modules/module4/lab4-0
-     - file: modules/module4/lab4-1 
-     - file: modules/module4/lab4-2
+     - file: modules/module4/lab4-1
+     - file: modules/module4/lab4-2 
      - file: modules/module4/lab4-3
      - file: modules/module4/lab4-4
 
@@ -45,15 +47,12 @@ parts:
 
    - file: modules/module6/module6.md
      sections:
-     - file: modules/module6/lab6-1
      - file: modules/module6/lab6-2
-     - file: modules/module6/lab6-3
      
    - file: modules/module7/module7.md
      sections:
      - file: modules/module7/lab7-1
      - file: modules/module7/lab7-2
-     - file: modules/module7/lab7-3
 
    - file: modules/module8/module8.md
      sections:
