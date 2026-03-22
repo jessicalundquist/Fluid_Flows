@@ -6,18 +6,18 @@
 Download the lab and data files to your computer. First you will need the lab worksheet [Mixing and Dilution Worksheet](lab7/CEE348_Spring_2022_Week9Lab.pdf)  This is will be part of Homework 8, but we want to start early.
 
 * [Lab 7-1: Rating Curves](lab7/lab7-1.ipynb)
-  * data: [Lyell_h_Q_sorted.mat](data/Lyell_h_Q_sorted.mat)
+  * data: [Lyell_h_Q_sorted.mat](../data/Lyell_h_Q_sorted.mat)
   * image: [LyellForkTuolumnegagesite](lab7/LyellFork_Tuolumne_flowcontrol.png)
   * Note, this python workbook is optional, if you are interested in how rating curves are made.
 * [Lab 7-2: Mixing and Dispersion in Rivers](lab7/lab7-2.ipynb)
-  * data (to examine not in python): [CEE348_dye_data_Lab7.xlsx](data/CEE348_dye_data_Lab7.xlsx)
-  * data (to examine in python): [Dye_data_GA050630c.csv](data/Dye_data_GA050630c.csv)
+  * data (to examine not in python): [CEE348_dye_data_Lab7.xlsx](../data/CEE348_dye_data_Lab7.xlsx)
+  * data (to examine in python): [Dye_data_GA050630c.csv](../data/Dye_data_GA050630c.csv)
 
 ```
 ## Homework 7:
 
 ### Problem 1:  (note, we solved this together in lab class, but you need to turn in your write-up for homework)
-![Bottom shear stress](data/BottomShearStress.png)
+![Bottom shear stress](../data/BottomShearStress.png)
 Hints:  For 1a, use the full conservation of momentum expression derived in class, before we simplified using uniform flow.  Remember that the friction slope, S<sub>f</sub> = h<sub>L</sub>/L  (head loss divided by the length).  For 1b, use the expression you generated in 1a.
           
 2.  Friction slope

@@ -8,13 +8,13 @@ For this week, we recommend reading Ch 2 and Ch 3 in Shuttleworth's [Terrestrial
 
 Download the lab and data files to your computer. Then, upload them to your JupyterHub [following the instructions here](https://mountain-hydrology-research-group.github.io/Fluid_Flows/resources/b-learning-jupyter.html).
 
-* Data: [Practice Data](data/my_data.csv)
-* Data: [Skykomish River Peak Flows, for plotting practice](data/Skykomish_peak_flow_12134500_skykomish_river_near_gold_bar.xlsx)
-* Data: [Sounding Data Dec 26](data/2021-12-26_radiosonde.csv)
-* Data: [Sounding Data Jan 03](data/2022-01-03_radiosonde.csv)
-* Data: [Sounding Data Jan 06](data/2022-01-06_radiosonde.csv)
-* Data: [Sounding Data Jan 10](data/2022-01-10_radiosonde.csv)
-* Graphic: [Ceilometer backscatter plot](data/ceilometer_backscatter.png)
+* Data: [Practice Data](../data/my_data.csv)
+* Data: [Skykomish River Peak Flows, for plotting practice](../data/Skykomish_peak_flow_12134500_skykomish_river_near_gold_bar.xlsx)
+* Data: [Sounding Data Dec 26](../data/2021-12-26_radiosonde.csv)
+* Data: [Sounding Data Jan 03](../data/2022-01-03_radiosonde.csv)
+* Data: [Sounding Data Jan 06](../data/2022-01-06_radiosonde.csv)
+* Data: [Sounding Data Jan 10](../data/2022-01-10_radiosonde.csv)
+* Graphic: [Ceilometer backscatter plot](../data/ceilometer_backscatter.png)
 * [Lab 2-1: Practice Coding in a Jupyter Notebook](lab2/lab2-1.ipynb) 
 * [Lab 2-2: Graphical Data Analysis - Practice Plotting Data](lab2/lab2-2.ipynb)
 * [Lab 2-3: Atmospheric Thermodynamics - Practice Plotting Sounding Data](lab2/lab2-3.ipynb)
@@ -53,7 +53,7 @@ Which city has
 ### Problem 3 (option 1: choose this if you dislike python)
 The figure below shows environmental temperature data on the west side of a conical mountain.  Suppose the wind is blowing from the west and a parcel of surface air with a temperature of 11&deg;C and a dew point of 7&deg;C begins to rise upward along the western (windward) side of the hill.
 
-![mountain](data/mtn_lapse_rate.jpg)
+![mountain](../data/mtn_lapse_rate.jpg)
 
 * (a) Calculate the environmental lapse rate
 * (b) What type of atmospheric stability does the sounding indicate?

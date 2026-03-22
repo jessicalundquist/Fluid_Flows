@@ -9,15 +9,15 @@ You may be interested in the history of the Cedar River Watershed:
 
 Download the lab and data files to your computer. Then, upload them to your JupyterHub [following the instructions here](/resources/b-learning-jupyter.html#working-with-files-on-our-jupyterhub).
 
-* [Lab 5-1: Water Balance](lab5/lab5-1.ipynb) with [Cedar Water Balance](data/Cedar_average_monthly_waterbalance.csv)
+* [Lab 5-1: Water Balance](lab5/lab5-1.ipynb) with [Cedar Water Balance](../data/Cedar_average_monthly_waterbalance.csv)
 
-* [Lab 5-2: Flood Frequency and Statistics](lab5/lab5-2.ipynb) with [Skykomish Peak Flows](data/Skykomish_peak_flow_12134500_skykomish_river_near_gold_bar.xlsx) and with [Bulletin K Values](data/Bulletin17b_appendix3_K_skykomish.png) 
+* [Lab 5-2: Flood Frequency and Statistics](lab5/lab5-2.ipynb) with [Skykomish Peak Flows](../data/Skykomish_peak_flow_12134500_skykomish_river_near_gold_bar.xlsx) and with [Bulletin K Values](../data/Bulletin17b_appendix3_K_skykomish.png) 
 
 * for Lab 5-2, you will also want to look at this lab on [Probability Distributions](lab5/probability-distributions.ipynb) to  better understand what is going on.
 
 * [Lab 5-3: Winds and Orographic Precipitation](lab5/lab5-3.ipynb)
 
-* Download this [Elevation Profile](data/elevation-profile_Olympics.csv) and upload to use with 5-3.
+* Download this [Elevation Profile](../data/elevation-profile_Olympics.csv) and upload to use with 5-3.
 
 * [Lab 5-4: Evaporation **NOTE, still in development**](lab5/lab5-4.ipynb)
 
@@ -28,11 +28,11 @@ Download the lab and data files to your computer. Then, upload them to your Jupy
 ### Problem 1: Average precipitation across a watershed (4 pts)
 Choose **one** of the following methods for precipitation distribution.
 
-**OPTION 1:**  In the map below and linked [here](data/Theissen_homework_graphic.png), the recorded rainfall in inches is provided at six gauges in and around a watershed.  Compute the mean areal rainfall over the watershed using the Theissen method (print this page, use a ruler, approximate using the squares, and scan to turn in with your homework).  You will need to approximate on the number of squares in cases with fractions of squares, and any reasonable approximation is fine (just show your work).
+**OPTION 1:**  In the map below and linked [here](../data/Theissen_homework_graphic.png), the recorded rainfall in inches is provided at six gauges in and around a watershed.  Compute the mean areal rainfall over the watershed using the Theissen method (print this page, use a ruler, approximate using the squares, and scan to turn in with your homework).  You will need to approximate on the number of squares in cases with fractions of squares, and any reasonable approximation is fine (just show your work).
 
-![map](data/Theissen_homework_graphic.png)
+![map](../data/Theissen_homework_graphic.png)
 
-**OPTION 2:**  Follow Lab-3, but instead of the Olympics, extract a line of elevation along the center of the Cedar River Watershed.  Note, you may use this [elevation profile](data/elevation-profile_Cedar.csv) instead of extracting your own.  Presuming precipitation follows the linear orographic precipitation model, determine the condensation rate (and presumed instantaneous rain rate) as a funtion of elevation.  Note, it will be easiest if you smooth the slopes to assign between 3 and 4 rain rates over a range of elevations with similar general slope.  Then, use the area at each elevation (easiest if you determine elevation bands) to determine the area-average rainfall (in mm) across the watershed.  This [excel sheet](data/Cedar_elevation_area.xlsx) has information on elevation vs. area for the Cedar River.    You may choose to import the area vs elevation from the excel sheet, or you can define elevation bands and sum the area within them in excel and then type/paste those area weights into your python notebook.  Please show your work. Please extract your python notebook to PDF, or take screen shots and put it into a word document, before you turn it in. 
+**OPTION 2:**  Follow Lab-3, but instead of the Olympics, extract a line of elevation along the center of the Cedar River Watershed.  Note, you may use this [elevation profile](../data/elevation-profile_Cedar.csv) instead of extracting your own.  Presuming precipitation follows the linear orographic precipitation model, determine the condensation rate (and presumed instantaneous rain rate) as a funtion of elevation.  Note, it will be easiest if you smooth the slopes to assign between 3 and 4 rain rates over a range of elevations with similar general slope.  Then, use the area at each elevation (easiest if you determine elevation bands) to determine the area-average rainfall (in mm) across the watershed.  This [excel sheet](../data/Cedar_elevation_area.xlsx) has information on elevation vs. area for the Cedar River.    You may choose to import the area vs elevation from the excel sheet, or you can define elevation bands and sum the area within them in excel and then type/paste those area weights into your python notebook.  Please show your work. Please extract your python notebook to PDF, or take screen shots and put it into a word document, before you turn it in. 
 
 ### Problem 2: Peak Flows and Flood Risk in the Cedar River Watershed (4 pts)
 
