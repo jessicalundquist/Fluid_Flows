@@ -104,9 +104,7 @@ Each person will be responsible for creating a 3 to 5-minute video explaining on
 
 ## Schedule
 
-```note
-This schedule is subject to change throughout the quarter. Check assignment due dates on Canvas for the updated schedule.
-```
+**This schedule is subject to change throughout the quarter. Check assignment due dates on Canvas for the updated schedule.**
 
 [UW Academic calendar for 2023-2024](https://www.washington.edu/students/reg/2324cal.html)
 

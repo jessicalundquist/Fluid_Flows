@@ -1,6 +1,5 @@
 # 3) Mixing and dispersion in the atmosphere
 
-```note
 ## Lab 3: Gaussian Mixing and Smokestack plumes
 
 Download the lab and data files to your computer. Then, upload them to your JupyterHub [following the instructions here](/Fluid_Flows/resources/b-learning-jupyter.html#working-with-files-on-our-jupyterhub).
@@ -18,8 +17,6 @@ Download the lab and data files to your computer. Then, upload them to your Jupy
   * BONUS Graphic: [Smokestack_oneReflection.jpg](../data/Smokestack_oneReflection.jpg)
   * BONUS Graphic: [Smokestack_2reflections.jpg](../data/Smokestack_2reflections.jpg)
   * BONUS Graphic: [Smokestacks_doublereflections.jpg](../data/Smokestacks_doublereflections.jpg)
-
-```
 
 ## Homework 3: 
 

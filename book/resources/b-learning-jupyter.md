@@ -29,9 +29,7 @@ While it is possible to [run Jupyter Notebooks locally on your own computer](#),
 4. You should see a message "Your server is starting up." and below it a status bar as your personal server starts. 
 ![jupyter startup 3](images/jupyter-help/jupyter3.JPG)
 
-```note
 **If you encounter an error here or your server fails to start**, copy or screenshot the text of the "Event log" or any other error messages that appear and email the course instructor or TA.
-```
 
 5. You should now see the JupyterHub interface in your web browser. You're now ready to use Jupyter notebooks!
 ![jupyter startup 4](images/jupyter-help/jupyter4.JPG)
@@ -41,14 +39,11 @@ While it is possible to [run Jupyter Notebooks locally on your own computer](#),
 * To upload lab notebooks or data files, click on the "Upload Files" icon in the upper left menu, navigate to the files you want in the File Upload window, then click "Open"
 ![jupyter startup 5](images/jupyter-help/jupyter5.JPG)
 
-```note
 **GitHub Option:**
 
 While we won't be covering how to use GitHub in this course, if you are already familiar with using git, or [would like to learn how to use it on your own](https://swcarpentry.github.io/git-novice/), you are welcome to use it. I will try my best to address any issues or questions you have about using GitHub in this class.
 
 First, create your own GitHub respository for your labs and homework assignments. Download lab and data files from this website and upload to your JupyterHub. You can then use the terminal in JupyterHub to can add, commit, and push them to your repository as you work on labs and homeworks.
-
-```
 
 * You can organize files into folders, click the "New Folder" icon in the upper left menu to create a new folder.
 ![jupyter startup 6](images/jupyter-help/jupyter6.JPG)
@@ -62,9 +57,7 @@ First, create your own GitHub respository for your labs and homework assignments
 ![jupyter startup 7](images/jupyter-help/jupyter7.JPG)
 
 
-```note
 Logging out of the JupyterHub will **NOT** cause any of your work to be lost or deleted, it simply shuts down some of the computing resources (like shutting off your laptop at the end of the day)
-```
 
 
 ## Additional References and Resources

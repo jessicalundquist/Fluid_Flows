@@ -3,7 +3,6 @@
 **Recommended Reading**
 For this week, we recommend reading Ch 2 and Ch 3 in Shuttleworth's [Terrestrial Hydrometerology](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=6961&itemId=0470659378).
 
-```note
 ## Lab 2: Plotting balloon soundings
 
 Download the lab and data files to your computer. Then, upload them to your JupyterHub [following the instructions here](https://mountain-hydrology-research-group.github.io/Fluid_Flows/resources/b-learning-jupyter.html).
@@ -18,9 +17,6 @@ Download the lab and data files to your computer. Then, upload them to your Jupy
 * [Lab 2-1: Practice Coding in a Jupyter Notebook](lab2-1.ipynb) 
 * [Lab 2-2: Graphical Data Analysis - Practice Plotting Data](lab2-2.ipynb)
 * [Lab 2-3: Atmospheric Thermodynamics - Practice Plotting Sounding Data](lab2-3.ipynb)
-
-```
-
 
 ## Homework 2
 
