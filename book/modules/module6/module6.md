@@ -1,14 +1,10 @@
 # 6) Groundwater Flow
 
-
-```note
 ## Lab 6: Contaminants in Groundwater
 
-* Lab 6-1:  Download the [Contaminants Worksheet](lab6/Contaminants_labworksheet.pdf)  We will also have printed copies available in the lab.  You will want to hand-draw sketches of contaminant transport.  The [Lab 6-2](lab6/lab6-2.ipynb) python notebook will help you answer question 5 on the worksheet.
+* Lab 6-1:  Download the [Contaminants Worksheet](Contaminants_labworksheet.pdf)  We will also have printed copies available in the lab.  You will want to hand-draw sketches of contaminant transport.  The [Lab 6-2](lab6-2.ipynb) python notebook will help you answer question 5 on the worksheet.
 
-* [Lab 6-2: Modeling Groundwater Contaminants](lab6/lab6-2.ipynb)
-
-```
+* [Lab 6-2: Modeling Groundwater Contaminants](lab6-2.ipynb)
 
 
 ## Homework 6: 
@@ -17,7 +13,7 @@
 
 Water flows through three confined aquifers in series with the properties shown below.  Two observation wells indicate piezometric heads on either end of 66.4 m and 60.6 m.  Determine the flow rate per unit width of the aquifer and the head losses in each component of the aquifers between the observation wells.
 
-![GWHW_prob1 graphic](lab6/GWHW_prob1.png) 
+![GWHW_prob1 graphic](GWHW_prob1.png) 
 
 ### Problem 2: (3 points) Water Flow through unconfined aquifers
 
@@ -27,7 +23,7 @@ An unconfined aquifer has a hydraulic conductivity of 6 x 10^{-2} cm/s.  There a
 
 Note: The lab activities will help you with this problem.   You have three observation wells, as shown below.  Three contaminants, A, B, and C are released into the aquifer at Well 1 at a constant, steady rate.  You are monitoring for each of these contaminants at Well 2 and Well 3.  You know the following about the contaminants: All three contaminants are subject to advection.  Contaminant A does not disperse or adsorb.  Contaminant B has a very high dispersion coefficient but does not adsorb.  Contaminant C is subject to slight dispersion (higher than A but less than C) and has a strong tendency to adsorb to soil particles. 
 
-![GWHW_prob3 graphic](lab6/GWHW_prob3.png) 
+![GWHW_prob3 graphic](GWHW_prob3.png) 
 
 **(a)** Sketch the break-through curves (x-axis, time after introcution of contaminant t, vs. y-axis, relative contaminatn concentration C/C0) for each contaminant for Well 2.  Explain your reasoning.
 

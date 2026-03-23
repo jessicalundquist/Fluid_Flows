@@ -1,7 +1,5 @@
 # 1) Key Concepts in Environmental Flows
 
-
-
 ---
 
 ## Homework 1
@@ -19,8 +17,5 @@ Provide a 1-2 page write-up describing the fluid flow components of an environme
 * What fluid principles from CEE347 (Intro to fluid Mechanics) could you use?
 
 * Which of our key words are relevant to this problem?
-
-
-
 
 ---
