@@ -1,1 +1,11 @@
 _site/
+
+**solution**
+# MyST build outputs
+_build
+ 
+**.DS_Store
+
+myst.yml
+
+**.ipynb_checkpoints/**
