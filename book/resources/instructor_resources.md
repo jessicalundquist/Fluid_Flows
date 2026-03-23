@@ -4,15 +4,15 @@
 
 ## Course Website
 
-The course website ([https://mountain-hydrology-research-group.github.io/data-analysis/](https://mountain-hydrology-research-group.github.io/data-analysis/)) is hosted on [GitHub Pages](https://pages.github.com/) as a repository under the Mountain-Hydrology-Research-Group github organization, [here](https://github.com/Mountain-Hydrology-Research-Group/data-analysis). It is organized and formatted as a [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+The course website ([https://mountain-hydrology-research-group.github.io/Fluid_Flows/](https://mountain-hydrology-research-group.github.io/Fluid_Flows/)) is hosted on [GitHub Pages](https://pages.github.com/) as a repository under the Mountain-Hydrology-Research-Group github organization, [here](https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows). It is organized and formatted as a [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
 ### Getting started
 
 1. **Log into your github account**, or create an account on [github](https://github.com/) (Note: your account will need to be connected to the Mountain-Hydrology-Research-Group github organization)
-2. **Go to the course website repository** at https://github.com/Mountain-Hydrology-Research-Group/data-analysis
+2. **Go to the course website repository** at https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows
 3. **Create your own [fork](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/) of the repository**. (It is good practice to work on a separate fork, your own personal copy, of the repository while you update the website.)
 4. **[Clone](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) the repository** onto the class JupyterHub or to your personal computer. (The advantage of having a clone of the respository on the JupyterHub is to test out the jupyter notebooks for labs in the same environment students will be using.)
-5. Repeat steps 2-4 with the [repository containing homework solutions](https://github.com/Mountain-Hydrology-Research-Group/data-analysis-solutions). (This is a private repository accessible only to approved users. It is not connected to the class website.)
+5. Repeat steps 2-4 with the [repository containing homework solutions](https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows-solutions). (This is a private repository accessible only to approved users. It is not connected to the class website.)
 6. **Add and Commit changes to your own fork** as you work on updating content.
 7. When your own fork is now up to date with your changes, **open a [pull request](https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/)** to merge the changes from your fork into the repository under the Mountain-Hydrology-Research-Group github organization.
 
@@ -20,7 +20,7 @@ The website is currently published through github pages, so the following step o
 
 ### File organization
 
-In your cloned respository, in the top level `data-analysis/` directory, you can find a subdirectory called `book` which contains the website. Under `book` course content is organized into:
+In your cloned respository, in the top level `Fluid_Flows/` directory, you can find a subdirectory called `book` which contains the website. Under `book` course content is organized into:
 * `overview` folder, contains syllabus and project pages
 * `modules` folder, each module/lab corresponds roughly to one week of the quarter. The `module#.md` files create the main page for each module with the lab and homework assignment text, while the `lab#/` folder corresponding to that modules contains the jupyter notebook files. The `data/` folder contains any data files for labs or homeworks.
 * `resources` folder, jupyter and python documentation and links to other websites of interest to students learning hydrology, statistics, and programming
@@ -29,9 +29,9 @@ In your cloned respository, in the top level `data-analysis/` directory, you can
 
 ### Updating the website and Jupyter Notebooks
 
-Working with your fork of the repository that you've cloned, you can directly edit any of the markdown (.md) files in any text editor. If you are working on the JupyterHub, the lab jupyter notebooks can be opened and edited directly from the hub. If you are working on your own computer, you will need to launch your own instance of jupyter notebook then open the notebook files to edit. Besides the webpage markdown (.md) files and jupyter notebook (.ipynb) files, there are data files (primarily csv or excel files) for homework and lab activities within the `data-analysis/modules/data` directory.
+Working with your fork of the repository that you've cloned, you can directly edit any of the markdown (.md) files in any text editor. If you are working on the JupyterHub, the lab jupyter notebooks can be opened and edited directly from the hub. If you are working on your own computer, you will need to launch your own instance of jupyter notebook then open the notebook files to edit. Besides the webpage markdown (.md) files and jupyter notebook (.ipynb) files, there are data files (primarily csv or excel files) for homework and lab activities within the `Fluid_Flows/modules/data` directory.
 
-When you've made the changes you want, [commit and push](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) the modified files to your fork of the respository. Then [open a pull request](https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/) from the [upstream repository](https://github.com/Mountain-Hydrology-Research-Group/data-analysis) to pull the changes made in your fork. After merging the pull request, the changes will appear on the class website within a few minutes as the page is re-built from the new files.
+When you've made the changes you want, [commit and push](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) the modified files to your fork of the respository. Then [open a pull request](https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/) from the [upstream repository](https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows) to pull the changes made in your fork. After merging the pull request, the changes will appear on the class website within a few minutes as the page is re-built from the new files.
 
 ### Tag a commit and make end-of-year release
 
@@ -43,7 +43,7 @@ This is tagging the commit with id "25b6522" with the tag "v2022.0" (I just star
 
 `git push upstream --tags`
 
-Now on the [repository on github](https://github.com/Mountain-Hydrology-Research-Group/data-analysis/), you can create a new [Release](https://github.com/Mountain-Hydrology-Research-Group/data-analysis/releases) and pick the tag you just created from the dropdown menu.
+Now on the [repository on github](https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows/), you can create a new [Release](https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows/releases) and pick the tag you just created from the dropdown menu.
 
 ## Slack
 
@@ -77,17 +77,15 @@ Now on the [repository on github](https://github.com/Mountain-Hydrology-Research
    * Add a note that students can always find this list by clicking the Pin icon near top of the channel:
 
 Example:
-> **Welcome to the Data Analysis in Water Sciences - Fall 2022 Slack Workspace**
+> **Welcome to the Fluid Flows - Spring 2022 Slack Workspace**
 > We will be using Slack for most day-to-day communications, and for you all to collaborate on labs, homework assignments, and (for graduate students) projects.
 > There is a channel for each weekly module for discussions about each lab and assignment, a channel for initiating discussion around #projects, a #general channel for announcements and general discussions, and an #it_help channel for trying to resolve issues with JupyterHub or other IT issues.
 > **Please edit your Slack profile, add a picture, add your preferred name and pronouns as your "Display Name", and your time zone.**
 > Please bookmark these pages for easy access:
-> * **Class website**: https://mountain-hydrology-research-group.github.io/data-analysis/ (contains the syllabus, labs, homework assignments, links to other resources)
+> * **Class website**: https://mountain-hydrology-research-group.github.io/Fluid_Flows/ (contains the syllabus, labs, homework assignments, links to other resources)
 > * **UW Canvas**: https://canvas.uw.edu/ (for turning in assignments, grades, extra reading resources)
 > * **JupyterHub**: https://rttl.axdd.s.uw.edu/2022-autumn-cee-465-a/ (the computing environment we’ll be using for labs, homework, projects, instructions for getting started are here)
 > * **Slack Workspace**: uw-waterdata2020.slack.com (for communication, questions, collaboration)
-
-
 ---
 
 Thank you to David Shean for providing course organization ideas and help from [this guide](https://github.com/UW-GDA/gda_course_2020/tree/master/resources/instructors).
